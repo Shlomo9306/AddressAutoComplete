@@ -1,0 +1,11 @@
+c:\users\shlomo\documents\visual studio 2017\Projects\AutoCompleteAddress V0.1\AutoCompleteAddress V0.1\obj\Debug\AutoCompleteAddress V0.1.csprojResolveAssemblyReference.cache
+c:\users\shlomo\documents\visual studio 2017\Projects\AutoCompleteAddress V0.1\AutoCompleteAddress V0.1\obj\Debug\AutoCompleteAddress.Properties.Resources.resources
+c:\users\shlomo\documents\visual studio 2017\Projects\AutoCompleteAddress V0.1\AutoCompleteAddress V0.1\obj\Debug\AutoCompleteAddress V0.1.csproj.GenerateResource.Cache
+c:\users\shlomo\documents\visual studio 2017\Projects\AutoCompleteAddress V0.1\AutoCompleteAddress V0.1\bin\Debug\AutoCompleteAddress.exe.config
+c:\users\shlomo\documents\visual studio 2017\Projects\AutoCompleteAddress V0.1\AutoCompleteAddress V0.1\bin\Debug\AutoCompleteAddress.exe
+c:\users\shlomo\documents\visual studio 2017\Projects\AutoCompleteAddress V0.1\AutoCompleteAddress V0.1\bin\Debug\AutoCompleteAddress.pdb
+c:\users\shlomo\documents\visual studio 2017\Projects\AutoCompleteAddress V0.1\AutoCompleteAddress V0.1\bin\Debug\Newtonsoft.Json.dll
+c:\users\shlomo\documents\visual studio 2017\Projects\AutoCompleteAddress V0.1\AutoCompleteAddress V0.1\bin\Debug\Newtonsoft.Json.xml
+c:\users\shlomo\documents\visual studio 2017\Projects\AutoCompleteAddress V0.1\AutoCompleteAddress V0.1\obj\Debug\AutoCompleteAddress.View.FrmAddress.resources
+c:\users\shlomo\documents\visual studio 2017\Projects\AutoCompleteAddress V0.1\AutoCompleteAddress V0.1\obj\Debug\AutoCompleteAddress.exe
+c:\users\shlomo\documents\visual studio 2017\Projects\AutoCompleteAddress V0.1\AutoCompleteAddress V0.1\obj\Debug\AutoCompleteAddress.pdb
